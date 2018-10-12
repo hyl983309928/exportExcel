@@ -31,7 +31,7 @@ export default {
       },
       /*
       * desc: 导出 excel
-      * params columns: { label: [表头名称], prop: [对应数据的字段名] }
+      * params columns: [{ label: [表头名称], prop: [对应数据的字段名] }]
       * params data:  数据列表对象（数据格式： [{}]）
       * params title: excel文件名称
       * */
